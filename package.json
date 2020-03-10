@@ -1,0 +1,22 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "Payfone JavaScript Authentication interface",
+  "main": "payfone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jnaujok/jstest.git"
+  },
+  "keywords": [
+    "Payfone"
+  ],
+  "author": "Jeffrey R. Naujok <jnaujok@payfone.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnaujok/jstest/issues"
+  },
+  "homepage": "https://github.com/jnaujok/jstest#readme"
+}
